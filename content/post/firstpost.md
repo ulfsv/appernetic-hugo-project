@@ -690,7 +690,7 @@ callbacks.shift()();
 <!-- divChart -->
   
 <div id="AnnotationChartID1f2c5f7e56ce" 
-  style="width: 100%">
+  style="width: 90%">
 </div>
  <h1>Technical indicators
  ELAN-B.ST </h1> <!-- AnnotationChart generated in R 3.2.3 by googleVis 0.5.10 package -->
@@ -1139,7 +1139,7 @@ callbacks.shift()();
 <!-- divChart -->
   
 <div id="AnnotationChartID1f2c55785755" 
-  style="width: 60%; height: 400;">
+  style="width: 90%;">
 </div>
  <h1>Back test
  ELAN-B.ST </h1> <!-- AnnotationChart generated in R 3.2.3 by googleVis 0.5.10 package -->
@@ -1588,7 +1588,7 @@ callbacks.shift()();
 <!-- divChart -->
   
 <div id="Backtest" 
-  style="width: 60%; height: 400;">
+  style="width: 90%; ">
 </div>
  <h1>Equity chart
  ELAN-B.ST </h1> <!-- AnnotationChart generated in R 3.2.3 by googleVis 0.5.10 package -->
@@ -1918,7 +1918,7 @@ callbacks.shift()();
 <!-- divChart -->
   
 <div id="Equity_chart" 
-  style="width: 60%; height: 400;">
+  style="width: 90%; ">
 </div>
  <h1>Statistics
  ELAN-B.ST </h1> <!-- Table generated in R 3.2.3 by googleVis 0.5.10 package -->
@@ -2737,7 +2737,7 @@ callbacks.shift()();
 <!-- divChart -->
   
 <div id="TableID1f2c5bf16ce4" 
-  style="width: 60%; height: 400;">
+  style="width: 90%; ">
 </div>
  <h1>Market data
  ELAN-B.ST </h1> <!-- Table generated in R 3.2.3 by googleVis 0.5.10 package -->
@@ -4619,6 +4619,6 @@ callbacks.shift()();
 <!-- divChart -->
   
 <div id="TableID1f2c4dc87f0" 
-  style="width: 60%; height: 400;">
+  style="width: 90%; ">
 </div>
   </div>
