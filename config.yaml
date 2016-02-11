@@ -1,9 +1,9 @@
-BaseUrl: "http://example.com"
+BaseUrl: "http://iprognos.com"
 LanguageCode: "en-us"
-Title: "Aglaus"
+Title: "iPrognos"
 
 Params:
-  Author: "Your name."
+  Author: "Ulf Svensson"
   DateForm: "Mon, Jan 2, 2006"
   GoogleAnalyticsUserID: "Your ID."
   Facebook: "Your ID."
