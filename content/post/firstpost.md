@@ -690,7 +690,7 @@ callbacks.shift()();
 <!-- divChart -->
   
 <div id="AnnotationChartID1f2c5f7e56ce" 
-  style="width: 60%; height: 400;">
+  style="width: 100%">
 </div>
  <h1>Technical indicators
  ELAN-B.ST </h1> <!-- AnnotationChart generated in R 3.2.3 by googleVis 0.5.10 package -->
