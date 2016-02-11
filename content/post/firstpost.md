@@ -4,7 +4,7 @@ draft = true
 title = "firstpost"
 
 +++
-<table class='container'> <tr> <td> <font face='verdana'> <h1>Opening course, SMA and Bollinger bands
+<table class=table'> <tr> <td> <font face='verdana'> <h1>Opening course, SMA and Bollinger bands
  ELAN-B.ST </h1> <!-- AnnotationChart generated in R 3.2.3 by googleVis 0.5.10 package -->
 <!-- Sat Feb 06 15:09:46 2016 -->
 
