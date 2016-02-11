@@ -4,7 +4,7 @@ draft = true
 title = "firstpost"
 
 +++
-<h1>Opening course, SMA and Bollinger bands
+<div class="container"><h1>Opening course, SMA and Bollinger bands
  ELAN-B.ST </h1> <!-- AnnotationChart generated in R 3.2.3 by googleVis 0.5.10 package -->
 <!-- Sat Feb 06 15:09:46 2016 -->
 
@@ -686,3 +686,4 @@ callbacks.shift()();
  
 <!-- jsChart -->  
 <script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartAnnotationChartID1f2c5f7e56ce"></script>
+</div>
