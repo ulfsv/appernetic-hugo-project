@@ -4,4 +4,5 @@ draft = true
 title = "about"
 
 +++
-
+# About
+A momentum strategy for the swedish Stock Exchange OMXSE.
