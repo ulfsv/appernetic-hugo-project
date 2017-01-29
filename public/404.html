@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>404 Page not found  &middot; iPrognos</title>
+  <title>404 Page not found  &middot; Min blog</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
@@ -16,11 +16,13 @@
 
 <meta name="keywords" content="">
 
+<link rel="author" href="http://plus.google.com/+Myprofile">
 
-<meta property="og:title" content="404 Page not found  &middot; iPrognos ">
-<meta property="og:site_name" content="iPrognos"/>
-<meta property="og:url" content="%22/%22/404/" />
-<meta property="og:locale" content="en-us">
+
+<meta property="og:title" content="404 Page not found  &middot; Min blog ">
+<meta property="og:site_name" content="Min blog"/>
+<meta property="og:url" content="%22/%22/sv/404/" />
+<meta property="og:locale" content="en">
 
 
 <meta property="og:type" content="website" />
@@ -29,9 +31,9 @@
 
 <link href="%22/%22/404.html/index.xml" rel="alternate" type="application/rss+xml" title="404 Page not found" />
 
-<link rel="canonical" href="%22/%22/404/" />
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/touch-icon-144-precomposed.png">
-<link rel="icon" href="/favicon.png">
+<link rel="canonical" href="%22/%22/sv/404/" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href=""/"/touch-icon-144-precomposed.png">
+<link rel="icon" href=""/"/favicon.png">
 <meta name="generator" content="Hugo 0.17" />
 
   <!--[if lt IE 9]>
@@ -41,7 +43,7 @@
 
 
 
-    <link rel="stylesheet" href="%22/%22/css/bootswatch/default/bootstrap.min.css">
+    <link rel="stylesheet" href="%22/%22/css/bootswatch/paper/bootstrap.min.css">
 
 
 <link rel="stylesheet" href="%22/%22/css/font-awesome.min.css">
@@ -52,7 +54,7 @@
 
 
 </head>
-<body data-ng-app="myapp" data-ng-controller="MyController" data-ng-mouseleave="MouseLeave($event)">
+<body class="map[name:paper]" data-ng-app="myapp" data-ng-controller="MyController" data-ng-mouseleave="MouseLeave($event)">
     <header id="main-header">
   <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container">
@@ -65,14 +67,22 @@
         </button>
         
           
-          <a class="navbar-brand-img" href="/%22/%22/%22/%22/">
-            <img alt="" src="">
+          <a class="navbar-brand-img" href=""/"/sv/%22/%22/">
+            <img alt="My awsome blog" src="http://blog.appernetic.io/images/apperneticlogo.png">
             
           </a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
             
+            
+            <li class="">
+
+              <a href=""/"/sv/post/" >
+                
+                Bloggen
+              </a>
+            </li>
             
           </ul>
         </div>
@@ -85,7 +95,7 @@
 <article id="main-content" class="container main_content error_404">
   <h1>404 Not Found</h1>
   <p>What you're looking for isn't here, sorry!</p>
-  <p><a href="/%22/%22/">&larr; Click here to go back home</a></p>
+  <p><a href=""/"/%22/%22/">&larr; Click here to go back home</a></p>
 </article>
 
       
@@ -94,9 +104,13 @@
     <div class="row">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
            <div class="pull-left">
-  <a class="toplink" href="javascript:" id="return-to-top">back to top</a>
+  <a class="toplink" href="javascript:" id="return-to-top">Till toppen</a>
 </div>
 <div class="pull-right">
+
+<a href=""/"/sv/friskrivning/">Ansvarsfriskrivning</a> <i>&middot;</i>
+
+<a href=""/"/sv/vilkor/">Vilkor</a> 
 
 </div>
 
@@ -106,11 +120,20 @@
     
 <div class="container footline">
     <small>
+  code with <i class='fa fa-heart'></i>
+
 </small>
 </div>
 
 
     
+<div class="container copyright">
+    <small>
+  &copy; 2016 Alla rättigheter
+
+  </small>
+</div>
+
 
 
         </div>
@@ -120,11 +143,35 @@
 
     
 
+<script src="//s3.amazonaws.com/mailmunch/static/site.js" id="mailmunch-script" data-mailmunch-site-id="" async="async"></script>
+
+
+
+<script src="//load.sumome.com/" data-sumo-site-id="" async="async"></script>
+
 <script src="%22/%22/js/jquery.min.js"></script>
 <script src="%22/%22/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>
-<script src="/js/popover/angular-storage.min.js"></script>
+<script src=""/"/js/popover/angular-storage.min.js"></script>
 
+
+<script type="text/javascript">
+  (function() {
+    
+    
+    if (window.location.hostname == "localhost")
+      return;
+
+    var dsq = document.createElement('script'); dsq.async = true; dsq.type = 'text/javascript';
+    dsq.src = '//shortname.disqus.com/count.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+  $('#return-to-top').click(function() {      
+    $('body,html').animate({
+        scrollTop : 0                       
+    }, 500);
+});
+</script>
 
 
 <script src="%22/%22/js/highlight.pack.js"></script>
@@ -133,26 +180,33 @@
 
 
 <script>
-var ENABLE_POPOVER = ""; 
-var EXPIRE_COOKIE = ""; 
-var SHOW_MODAL_TIMEOUT = ""; 
-var MOUSE_LEAVE = ""; 
-var MODAL_SIZE = ""; 
-var POST_URL = ""; 
-var SIGNUP_HEADER = "";
-var HEADER_IMAGE = "";
-var IMG_DESCRIPTION = "";
-var SIGNUP_TEXT = "";
-var INPUT_PLACEHOLDER = "";
-var SUBMIT_BUTTON = "";
-var SUCCESS_MESSAGE = "";
-var ERROR_MESSAGE = "";
-var OPTIN = "";
-var COOKIE_NAME = "";
+  var _gaq=[['_setAccount','Your Google Analytics tracking code'],['_trackPageview']];
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,'script'));
 </script>
-<script src="/js/popover/angular-modal-service.min.js"></script>
-<script src="/js/angular-ismobile.min.js"></script>
-<script src="/js/popover/popover.min.js"></script>
+
+<script>
+var ENABLE_POPOVER =  true ; 
+var EXPIRE_COOKIE =  5 ; 
+var SHOW_MODAL_TIMEOUT =  10000 ; 
+var MOUSE_LEAVE =  true ; 
+var MODAL_SIZE = ""; 
+var POST_URL = "https://zapier.com/hooks/catch/1227563/"; 
+var SIGNUP_HEADER = "Join Our Newsletter";
+var HEADER_IMAGE = "//placehold.it/1000x600";
+var IMG_DESCRIPTION = "Placeholder image for this popover modal optin form";
+var SIGNUP_TEXT = "Signup today for free and be the first to get notified on new updates.";
+var INPUT_PLACEHOLDER = "Enter your email";
+var SUBMIT_BUTTON = "Subscribe";
+var SUCCESS_MESSAGE = "Thanks for your subscription!";
+var ERROR_MESSAGE = "Submitting form failed!";
+var OPTIN =  true ;
+var COOKIE_NAME = "mycookie1";
+</script>
+<script src=""/"/js/popover/angular-modal-service.min.js"></script>
+<script src=""/"/js/angular-ismobile.min.js"></script>
+<script src=""/"/js/popover/popover.min.js"></script>
 
   </body>
 </html>
