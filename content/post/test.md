@@ -18,7 +18,6 @@ topics = [
 ]
 
 +++
-
-# Headline
+# Headline
 
 Text
