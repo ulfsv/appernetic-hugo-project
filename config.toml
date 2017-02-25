@@ -68,8 +68,8 @@ optin = true #opt-in: true/false
 
 [params]
 # You can use markdown here.
-BrandImage = "http://blog.appernetic.io/images/apperneticlogo.png" #top header brand image.
-brand = "My awsome blog" # brand image alt text.
+BrandImage = "" #top header brand image.
+brand = "3Dquu" # brand image alt text.
 topline = "few words about your site"
 footline = "code with <i class='fa fa-heart'></i>"
 
