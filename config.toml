@@ -1,5 +1,5 @@
 # hostname (and path) to the root eg. https://appernetic.github.io/
-baseurl = "/"
+baseurl = "https://ulfsv.github.io/"
 
 DefaultContentLanguage = "en"
 
@@ -25,7 +25,7 @@ paginate = 10
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "shortname"
+disqusShortname = "3dquu"
 
 
 [permalinks]
@@ -37,8 +37,8 @@ tag = "tags"
 topic = "topics"
 
 [author]
-name = "yourname"
-email = "yourname@example.com"
+name = "Ulfsv"
+email = "ulf.e.sv@gmail.com"
 
 #
 # All parameters below here are optional and can be mixed and matched.
@@ -49,7 +49,7 @@ name = "paper"
 
 [params.popover]
 # This is a highly configurable popover form.
-enablepopover = true #enable or disable popover: true/false.
+enablepopover = false #enable or disable popover: true/false.
 posturl = "https://zapier.com/hooks/catch/1227563/" # Your zapier post hook.
 headerimage = "//placehold.it/1000x600"
 expirecookie = 5 #show it again after number of days to visitors that has not subscribed.
@@ -69,7 +69,7 @@ optin = true #opt-in: true/false
 [params]
 # You can use markdown here.
 BrandImage = "" #top header brand image.
-brand = "3Dquu" # brand image alt text.
+brand = "3DQuu" # brand image alt text.
 topline = "few words about your site"
 footline = "code with <i class='fa fa-heart'></i>"
 
@@ -81,7 +81,7 @@ mailmunchid = "" # Mailmunch site id
 sumomeid = "" # Sumome id
 
 # Show a sidebar menu
-showRightSidebar = true
+showRightSidebar = false
 # Select a syntax highlight.
 # Check the static/css/highlight directory for options.
 highlight = "default"
@@ -90,7 +90,7 @@ highlight = "default"
 googleAnalytics = "Your Google Analytics tracking code"
 
 # Sidebar social links.
-github = "Myprofile" # Your Github profile ID
+github = "" # Your Github profile ID
 bitbucket = "" # Your Bitbucket profile ID
 linkedin = "" # Your LinkedIn profile ID (from public URL)
 googleplus = "Myprofile" # Your Google+ profile ID
@@ -130,36 +130,11 @@ weight = 2
 identifier = "post"
 url = "/post/"
 
-[[Languages.en.menu.main]]
-name = "About"
-weight = 1
-identifier = ""
-url = "https://appernetic.io/app/#/about"
-pre = "<i class='fa fa-road'></i>"
-
-[[Languages.en.menu.main]]
-name = "Dashboard"
-identifier = ""
-weight = 3
-url = "https://appernetic.io/app/"
-
-[[Languages.en.menu.footer]] # add  links to the bottom right corner.
-name = "Disclaimer"
-pre = "<i>&middot;</i>"
-identifier = "disclaimer"
-weight = 1
-url = "/disclaimer/"
-
-[[Languages.en.menu.footer]]
-name = "Terms"
-identifier = "terms"
-weight = 2
-url = "/terms/"
 
 [Languages.sv]
 weight = 2
 title = "Min blog" # Site title
-copyright = "(c) 2016 Alla rättigheter"
+copyright = "(c) 2017 Alla rättigheter 3DQuu"
 
 [[Languages.sv.menu.main]]
 name = "Bloggen"
@@ -168,18 +143,7 @@ weight = 2
 identifier = "post"
 url = "/sv/post/"
 
-[[Languages.sv.menu.footer]] # add  links to the bottom right corner.
-name = "Ansvarsfriskrivning"
-pre = "<i>&middot;</i>"
-identifier = "friskrivning"
-weight = 1
-url = "/sv/friskrivning/"
 
-[[Languages.sv.menu.footer]]
-name = "Vilkor"
-identifier = "vilkor"
-weight = 2
-url = "/sv/vilkor/"
 
 [Languages.sv.taxonomies]
 tag = "Taggar"
