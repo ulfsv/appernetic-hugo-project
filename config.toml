@@ -120,8 +120,8 @@ extensionmask = []
 [Languages]
 [Languages.en]
 weight = 1
-copyright = "(c) 2016 Copyright my blog"
-title = "My blog" # Site title
+copyright = "(c) 2017 Copyright 3DQuu"
+title = "3DQuu" # Site title
 
 [[Languages.en.menu.main]]
 name = "Blog"
