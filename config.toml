@@ -68,7 +68,7 @@ optin = true #opt-in: true/false
 
 [params]
 # You can use markdown here.
-BrandImage = "https://res.cloudinary.com/dtnahfj7l/v1489351976/rrn6jbx6klbkmrgza6hz" #top header brand image.
+BrandImage = "https://res.cloudinary.com/dtnahfj7l/v1489354290/ldn7ds6wbbx6rtvjqx55" #top header brand image.
 brand = "3DQuu" # brand image alt text.
 topline = "few words about your site"
 footline = "code with <i class='fa fa-heart'></i>"
