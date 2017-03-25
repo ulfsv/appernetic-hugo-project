@@ -126,10 +126,15 @@ title = "3DQuu" # Site title
 [[Languages.en.menu.main]]
 name = "Blog"
 pre = ""
-weight = 2
+weight = 3
 identifier = "post"
 url = "/post/"
 
+name = "Buy"
+pre = ""
+weight = 2
+identifier = "buy"
+url = "/buy/"
 
 #[Languages.sv]
 #weight = 2
