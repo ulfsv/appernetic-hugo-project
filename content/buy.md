@@ -22,7 +22,7 @@ The user doesn't have to enter any SSID and password which gives the following a
  
 ## Specification
 
-Board size 25 x 25 x 10 cm
-Color: white, blue, black, red, yellow,  UV-changing (from white to red)
-Material: PLA plastic, bio degradeble.
-NFC chip: compatible with any device.
+- Board size 25 x 25 x 10 cm
+- Color: white, blue, black, red, yellow,  UV-changing (from white to red)
+- Material: PLA plastic, bio degradeble.
+- NFC chip: compatible with any device.
