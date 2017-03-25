@@ -29,7 +29,7 @@ The user doesn't have to enter any SSID and password which gives the following a
 - NFC chip: compatible with most devices.
 - QR Code for non-compatible devices such as iPhone.
 
-<form id="contact-form" action="//formspree.io/goran@molnsys.com" method="post">
+<form id="contact-form" action="//formspree.io/ulf.e.sv@gmail.com" method="post">
 	<input type="text" name="Name" placeholder="Name" required>
 	<input type="email" name="Email" placeholder="Email" required>
 	<textarea name="Message" cols="30" rows="6" placeholder="Message" required></textarea>
