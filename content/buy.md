@@ -29,6 +29,7 @@ The user doesn't have to enter any SSID and password which gives the following a
 - NFC chip: compatible with most devices.
 - QR Code for non-compatible devices such as iPhone.
 
+<div id="custom-form-message" data-notify-type="success" data-notify-msg="<i class=icon-ok-sign></i> Message Sent Successfully!"></div>
 <form class="nobottommargin" id="template-contactform" name="template-contactform" novalidate="novalidate">
 <div class="form-process"></div>
 <div class="col_one_third">
@@ -46,6 +47,8 @@ The user doesn't have to enter any SSID and password which gives the following a
 <div class="col_one_third col_last">
 <label for="template-contactform-ssid">Name of SSID</label>
 <input type="text" id="template-contactform-ssid" name="template-contactform-ssid" value="" class="sm-form-control">
+</div>
+<div class="col_one_third col_last">
 <label for="template-contactform-passwd">WI-FI Password</label>
 <input type="text" id="template-contactform-passwd" name="template-contactform-passwd" value="" class="sm-form-control">
 </div>
