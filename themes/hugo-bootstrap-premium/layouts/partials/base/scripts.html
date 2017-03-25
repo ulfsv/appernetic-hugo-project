@@ -2,6 +2,31 @@
 <!-- MailMunch for https://blog.appernetic.io -->
 <script src="//s3.amazonaws.com/mailmunch/static/site.js" id="mailmunch-script" data-mailmunch-site-id="{{ .Site.Params.mailmunchid }}" async="async"></script>
 {{ end }}
+<script type="text/javascript">
+              $(document).ready(function() {
+                var options = {
+                  target:        '#contact-form-result',   // target element(s) to be updated with server response
+                  success:       showResponse,  // post-submit callback
+                  dataType: 'json',
+                  url:'https://formspree.io/ulf.e.sv@gmail.com',
+                  type: 'post',
+                  clearForm: true
+                };
+
+                $("#template-contactform").validate({
+                  submitHandler: function(form) {
+                    $(form).ajaxSubmit(options);
+                  }
+                });
+              });
+              // post-submit callback
+              function showResponse(responseText, statusText, xhr, $form)  {
+                $('.form-process').fadeOut();
+                $('#template-contactform').find('.sm-form-control').val('');
+                $('#contact-formet-result').attr('data-notify-msg', $('#contact-formet-result').html()).html('');
+                SEMICOLON.widget.notifications($('#custom-form-message'));
+              }
+</script>
 {{ if isset .Site.Params "sumomeid" }}
 <!-- sumome -->
 <script src="//load.sumome.com/" data-sumo-site-id="{{ .Site.Params.sumomeid }}" async="async"></script>
