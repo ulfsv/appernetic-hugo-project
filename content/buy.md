@@ -44,22 +44,24 @@ The user doesn't have to enter any SSID and password which gives the following a
 <input type="email" id="template-contactform-email" name="template-contactform-email" value="" class="required email sm-form-control" aria-required="true">
 </div>
 <div class="col_one_third col_last">
-<label for="template-contactform-phone">Phone</label>
-<input type="text" id="template-contactform-phone" name="template-contactform-phone" value="" class="sm-form-control">
+<label for="template-contactform-ssid">Name of SSID</label>
+<input type="text" id="template-contactform-ssid" name="template-contactform-ssid" value="" class="sm-form-control">
+<label for="template-contactform-passwd">WI-FI Password</label>
+<input type="text" id="template-contactform-passwd" name="template-contactform-passwd" value="" class="sm-form-control">
 </div>
 <div class="clear"></div>
 <div class="col_full">
 <label for="template-contactform-subject">Subject
 <small>*</small>
 </label>
-<input type="text" id="template-contactform-subject" name="template-contactform-subject" value="" class="required sm-form-control" aria-required="true">
+<input type="text" id="template-contactform-subject" name="template-contactform-subject" value="Price quote" class="required sm-form-control" aria-required="true">
 </div>
 <div class="clear"></div>
 <div class="col_full">
-<label for="template-contactform-message">Message
+<label for="template-contactform-message">Describe your custom design
 <small>*</small>
 </label>
-<textarea class="required sm-form-control" id="template-contactform-message" name="template-contactform-message" rows="6" cols="30" aria-required="true"></textarea><grammarly-btn><div style="z-index: 2; opacity: 1; transform: translate(515.188px, 147px);" class="_e725ae-textarea_btn _e725ae-show _e725ae-field_hovered _e725ae-not_focused" data-grammarly-reactid=".0"><div class="_e725ae-transform_wrap" data-grammarly-reactid=".0.0"><div title="Protected by Grammarly" class="_e725ae-status" data-grammarly-reactid=".0.0.0">&nbsp;</div></div></div></grammarly-btn>
+<textarea class="required sm-form-control" id="template-contactform-message" name="template-contactform-message" rows="6" cols="30" aria-required="true"></textarea>
 </div>
 <div class="col_full hidden">
 <input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control">
@@ -68,3 +70,28 @@ The user doesn't have to enter any SSID and password which gives the following a
 <button class="button button-3d nomargin" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Send Message</button>
 </div>
 </form>
+<script type="text/javascript">
+              $(document).ready(function() {
+                var options = {
+                  target:        '#contact-form-result',   // target element(s) to be updated with server response
+                  success:       showResponse,  // post-submit callback
+                  dataType: 'json',
+                  url:'https://formspree.io/ulf.e.sv@gmail.com',
+                  type: 'post',
+                  clearForm: true
+                };
+
+                $("#template-contactform").validate({
+                  submitHandler: function(form) {
+                    $(form).ajaxSubmit(options);
+                  }
+                });
+              });
+              // post-submit callback
+              function showResponse(responseText, statusText, xhr, $form)  {
+                $('.form-process').fadeOut();
+                $('#template-contactform').find('.sm-form-control').val('');
+                $('#contact-formet-result').attr('data-notify-msg', $('#contact-formet-result').html()).html('');
+                SEMICOLON.widget.notifications($('#custom-form-message'));
+              }
+              </script>
