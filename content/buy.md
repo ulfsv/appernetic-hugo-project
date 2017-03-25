@@ -67,7 +67,7 @@ The user doesn't have to enter any SSID and password which gives the following a
 <input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control">
 </div>
 <div class="col_full">
-<button class="button button-3d nomargin" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Send Message</button>
+<button class="button button-3d nomargin" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Get quote</button>
 </div>
 </form>
 
