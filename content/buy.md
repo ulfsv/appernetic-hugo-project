@@ -70,28 +70,4 @@ The user doesn't have to enter any SSID and password which gives the following a
 <button class="button button-3d nomargin" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Send Message</button>
 </div>
 </form>
-<script type="text/javascript">
-              $(document).ready(function() {
-                var options = {
-                  target:        '#contact-form-result',   // target element(s) to be updated with server response
-                  success:       showResponse,  // post-submit callback
-                  dataType: 'json',
-                  url:'https://formspree.io/ulf.e.sv@gmail.com',
-                  type: 'post',
-                  clearForm: true
-                };
 
-                $("#template-contactform").validate({
-                  submitHandler: function(form) {
-                    $(form).ajaxSubmit(options);
-                  }
-                });
-              });
-              // post-submit callback
-              function showResponse(responseText, statusText, xhr, $form)  {
-                $('.form-process').fadeOut();
-                $('#template-contactform').find('.sm-form-control').val('');
-                $('#contact-formet-result').attr('data-notify-msg', $('#contact-formet-result').html()).html('');
-                SEMICOLON.widget.notifications($('#custom-form-message'));
-              }
-              </script>
