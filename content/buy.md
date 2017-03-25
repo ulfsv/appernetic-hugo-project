@@ -1,16 +1,13 @@
 +++
 date = "2017-03-25T14:34:59Z"
-tags = ["one","two"]
-topics = ["topic 1"]
-description = "description"
+tags = ["buy","Instant wi-fi"]
 title = "buy"
-keywords = ["key","words"]
-author = "author"
+keywords = ["buy","Instant wi-fi", "NFC"]
+author = "Ulfsv"
 draft = true
-type = "post"
+type = "page"
 
 +++
-
-# Headline
+# Headline
 
 Text
