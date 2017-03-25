@@ -8,7 +8,8 @@ draft = true
 type = "page"
 
 +++
-# Instant W-FI
+
+# Instant W-FI
 
 Instant WI-FI is the easiest way to instantly get WI-FI settings configured in your user's mobile devices.
 
@@ -27,3 +28,43 @@ The user doesn't have to enter any SSID and password which gives the following a
 - Material: PLA plastic, bio degradeble.
 - NFC chip: compatible with most devices.
 - QR Code for non-compatible devices such as iPhone.
+
+<form class="nobottommargin" id="template-contactform" name="template-contactform" novalidate="novalidate">
+<div class="form-process"></div>
+<div class="col_one_third">
+<label for="template-contactform-name">Name
+<small>*</small>
+</label>
+<input type="text" id="template-contactform-name" name="template-contactform-name" value="" class="sm-form-control required" aria-required="true" style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%; cursor: auto;">
+</div>
+<div class="col_one_third">
+<label for="template-contactform-email">Email
+<small>*</small>
+</label>
+<input type="email" id="template-contactform-email" name="template-contactform-email" value="" class="required email sm-form-control" aria-required="true">
+</div>
+<div class="col_one_third col_last">
+<label for="template-contactform-phone">Phone</label>
+<input type="text" id="template-contactform-phone" name="template-contactform-phone" value="" class="sm-form-control">
+</div>
+<div class="clear"></div>
+<div class="col_full">
+<label for="template-contactform-subject">Subject
+<small>*</small>
+</label>
+<input type="text" id="template-contactform-subject" name="template-contactform-subject" value="" class="required sm-form-control" aria-required="true">
+</div>
+<div class="clear"></div>
+<div class="col_full">
+<label for="template-contactform-message">Message
+<small>*</small>
+</label>
+<textarea class="required sm-form-control" id="template-contactform-message" name="template-contactform-message" rows="6" cols="30" aria-required="true"></textarea><grammarly-btn><div style="z-index: 2; opacity: 1; transform: translate(515.188px, 147px);" class="_e725ae-textarea_btn _e725ae-show _e725ae-field_hovered _e725ae-not_focused" data-grammarly-reactid=".0"><div class="_e725ae-transform_wrap" data-grammarly-reactid=".0.0"><div title="Protected by Grammarly" class="_e725ae-status" data-grammarly-reactid=".0.0.0">&nbsp;</div></div></div></grammarly-btn>
+</div>
+<div class="col_full hidden">
+<input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control">
+</div>
+<div class="col_full">
+<button class="button button-3d nomargin" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Send Message</button>
+</div>
+</form>
