@@ -70,12 +70,12 @@ optin = true #opt-in: true/false
 # You can use markdown here.
 BrandImage = "https://res.cloudinary.com/dtnahfj7l/v1489354290/ldn7ds6wbbx6rtvjqx55" #top header brand image.
 brand = "3DQuu" # brand image alt text.
-topline = "few words about your site"
+topline = "3DQuu"
 footline = "code with <i class='fa fa-heart'></i>"
 
 # Text for the top menu link, which goes to the root URL for the site.
 # Default (if omitted) is "Home".
-home = "home"
+home = "Home"
 
 mailmunchid = "" # Mailmunch site id
 sumomeid = "" # Sumome id
@@ -87,15 +87,15 @@ showRightSidebar = false
 highlight = "default"
 
 # Google Analytics.
-googleAnalytics = "Your Google Analytics tracking code"
+googleAnalytics = "UA-96210901-1"
 
 # Sidebar social links.
 github = "" # Your Github profile ID
 bitbucket = "" # Your Bitbucket profile ID
 linkedin = "" # Your LinkedIn profile ID (from public URL)
-googleplus = "Myprofile" # Your Google+ profile ID
-facebook = "Myprofile" # Your Facebook profile ID
-twitter = "Myprofile" # Your Twitter profile ID
+googleplus = "" # Your Google+ profile ID
+facebook = "" # Your Facebook profile ID
+twitter = "" # Your Twitter profile ID
 youtube = ""  # Your Youtube channel ID
 flattr = ""  # populate with your flattr uid
 
@@ -131,17 +131,17 @@ identifier = "post"
 url = "/post/"
 
 
-[Languages.sv]
-weight = 2
-title = "Min blog" # Site title
-copyright = "(c) 2017 Alla rättigheter 3DQuu"
+#[Languages.sv]
+#weight = 2
+#title = "Min blog" # Site title
+#copyright = "(c) 2017 Alla rättigheter 3DQuu"
 
-[[Languages.sv.menu.main]]
-name = "Bloggen"
-pre = ""
-weight = 2
-identifier = "post"
-url = "/sv/post/"
+#[[Languages.sv.menu.main]]
+#name = "Bloggen"
+#pre = ""
+#weight = 2
+#identifier = "post"
+#url = "/sv/post/"
 
 
 
