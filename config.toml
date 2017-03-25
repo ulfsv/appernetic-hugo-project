@@ -129,7 +129,7 @@ pre = ""
 weight = 3
 identifier = "post"
 url = "/post/"
-
+[[Languages.en.menu.main]]
 name = "Buy"
 pre = ""
 weight = 2
