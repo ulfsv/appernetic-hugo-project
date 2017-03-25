@@ -36,7 +36,7 @@ The user doesn't have to enter any SSID and password which gives the following a
 	<!-- CONFIG -->
 	<input class="is-hidden" type="text" name="_gotcha">
 	<input type="hidden" name="_subject" value="Subject">
-	<input type="hidden" name="_cc" value="email@cc.com">
+	<input type="hidden" name="_cc" value="goran@molnfront.com">
 	<!-- /CONFIG -->
 	<input class="submit" type="submit" value="Send">
 </form>
