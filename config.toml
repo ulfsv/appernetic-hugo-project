@@ -1,5 +1,5 @@
 # hostname (and path) to the root eg. https://appernetic.github.io/
-baseurl = "http://3dquu.com/"
+baseurl = "https://3dquu.com/"
 
 DefaultContentLanguage = "en"
 
