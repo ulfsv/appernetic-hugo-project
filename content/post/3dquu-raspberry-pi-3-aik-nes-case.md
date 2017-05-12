@@ -1,16 +1,17 @@
 +++
-draft = true
+draft = false
 title = "3dquu raspberry pi 3 aik nes case"
 topics = ["topic 1"]
 type = "post"
-date = "2017-05-12T12:31:32Z"
+date = "2017-05-12T12:31:58Z"
 tags = ["one","two"]
 keywords = ["key","words"]
 description = "description"
 author = "author"
 
 +++
-# 
+
+# 
 ![enter image description here][1]
 
 <a href="https://www.3dhubs.com/service/210815" data-3dhubs-widget="button" data-hub-id="210815" data-type="orderWidget" data-color="light" data-size="normal" data-text="Order a 3D Print of the 3dquu raspberry pi 3 aik nes cas" >Order a 3D Print of the 3dquu raspberry pi 3 aik nes cas for 40USD</a>
