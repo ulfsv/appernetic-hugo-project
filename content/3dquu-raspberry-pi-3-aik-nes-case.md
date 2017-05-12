@@ -10,7 +10,7 @@ author = "author"
 type = "post"
 
 +++
-# 3Dquu Raspberry Pi 3 AIK NES Case
+# 
 ![enter image description here][1]
 
 <a href="https://www.3dhubs.com/service/210815" data-3dhubs-widget="button" data-hub-id="210815" data-type="orderWidget" data-color="light" data-size="normal" data-text="Order a 3D Print of the 3dquu raspberry pi 3 aik nes cas" >Order a 3D Print of the 3dquu raspberry pi 3 aik nes cas for 40USD</a>
