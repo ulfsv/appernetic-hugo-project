@@ -8,35 +8,22 @@ draft = true
 type = "page"
 
 +++
+# 
+![enter image description here][1]
 
-# Instant W-FI
+<button class="btn btn-success btn-lg snipcart-add-item" data-item-id="3DQuu-Rasperry-Pi3-AIK-NES-Case" data-item-name="3DQuu Rasperry Pi 3 AIK NES Case" data-item-price="45" data-item-weight="100" data-item-url="/" data-item-stackable="false"data-item-description="3DQuu 3D printed Rasperry Pi 3 AIK NES Case">
+Buy NOW!
+</button>
 
-Instant WI-FI is the easiest way to instantly get WI-FI settings configured in your user's mobile devices.
+<a href="https://www.3dhubs.com/service/210815" data-3dhubs-widget="button" data-hub-id="210815" data-type="orderWidget" data-color="light" data-size="normal" data-text="Order a 3D Print of the 3dquu raspberry pi 3 aik nes cas" >Order a 3D Print of the 3dquu raspberry pi 3 aik nes cas for 40USD</a>
+<script>!function(a,b,c,d){var e,g=(a.getElementsByTagName(b)[0],/^http:/.test(a.location)?"http":"https");a.getElementById(d)||(e=a.createElement(b),e.id=d,e.src=g+"://d3d4ig4df637nj.cloudfront.net/w/2.0.js",e.async=!0,a.body.appendChild(e))}(document,"script",1,"h3d-widgets-js");</script>
 
-The user doesn't have to enter any SSID and password which gives the following advantages:
+<button class="btn btn-success btn-lg snipcart-add-item" data-item-id="3DQuu-Rasperry-Pi3-AIK-NES-Case" data-item-name="3DQuu Rasperry Pi 3 AIK NES Case" data-item-price="45" data-item-weight="100" data-item-url="/" data-item-stackable="false"data-item-description="3DQuu 3D printed Rasperry Pi 3 AIK NES Case">
+Buy NOW!
+</button>
 
- - Your staff don't have to hand out passwords to visitors which saves time,
- - Users can't enter the wrong password
- - You can use very long passwords which are safer
- - You don't have to use WPS which shouldn't be used anyway,
- - The board can be designed as you want
- 
-## Specification
+![enter image description here][2]
 
-- Board size 25 x 25 x 10 cm
-- Color: white, blue, black, red, yellow,  UV-changing (from white to red)
-- Material: PLA plastic, bio degradeble.
-- NFC chip: compatible with most devices.
-- QR Code for non-compatible devices such as iPhone.
 
-<form id="contact-form" action="//formspree.io/ulf.e.sv@gmail.com" method="post">
-	<input type="text" name="Name" placeholder="Name" required>
-	<input type="email" name="Email" placeholder="Email" required>
-	<textarea name="Message" cols="30" rows="6" placeholder="Message" required></textarea>
-	<!-- CONFIG -->
-	<input class="is-hidden" type="text" name="_gotcha">
-	<input type="hidden" name="_subject" value="Subject">
-	<input type="hidden" name="_cc" value="goran@molnfront.com">
-	<!-- /CONFIG -->
-	<input class="submit" type="submit" value="Send">
-</form>
+  [1]: https://res.cloudinary.com/dtnahfj7l/v1494589182/sjl0b6k9qftogxgp09td
+  [2]: https://res.cloudinary.com/dtnahfj7l/v1494589721/yzwfur3iawfqpzypo8b3
