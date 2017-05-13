@@ -137,10 +137,10 @@ weight = 2
 identifier = "buy"
 url = "/buy/"
 
-#[Languages.sv]
+[Languages.sv]
 #weight = 2
-#title = "Min blog" # Site title
-#copyright = "(c) 2017 Alla rättigheter 3DQuu"
+title = "3DQuu" # Site title
+copyright = "(c) 2017 Alla rättigheter 3DQuu"
 
 #[[Languages.sv.menu.main]]
 #name = "Bloggen"
@@ -153,7 +153,7 @@ url = "/buy/"
 name = "Köp"
 pre = ""
 weight = 2
-identifier = "kop"
+identifier = "/sv/kop"
 url = "/sv/kop/"
 
 [Languages.sv.taxonomies]
