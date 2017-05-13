@@ -138,16 +138,9 @@ identifier = "buy"
 url = "/buy/"
 
 [Languages.sv]
-#weight = 2
+weight = 2
 title = "3DQuu" # Site title
 copyright = "(c) 2017 Alla rättigheter 3DQuu"
-
-#[[Languages.sv.menu.main]]
-#name = "Bloggen"
-#pre = ""
-#weight = 2
-#identifier = "post"
-#url = "/sv/post/"
 
 [[Languages.sv.menu.main]]
 name = "Köp"
@@ -159,3 +152,10 @@ url = "/sv/kop/"
 [Languages.sv.taxonomies]
 tag = "Taggar"
 topic = "Ämne"
+
+#[[Languages.sv.menu.main]]
+#name = "Bloggen"
+#pre = ""
+#weight = 2
+#identifier = "post"
+#url = "/sv/post/"
