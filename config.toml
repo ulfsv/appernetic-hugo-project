@@ -149,7 +149,12 @@ url = "/buy/"
 #identifier = "post"
 #url = "/sv/post/"
 
-
+#[[Languages.sv.menu.main]]
+#name = "Köp"
+#pre = ""
+#weight = 2
+#identifier = "kop"
+#url = "/sv/kop/"
 
 [Languages.sv.taxonomies]
 tag = "Taggar"
