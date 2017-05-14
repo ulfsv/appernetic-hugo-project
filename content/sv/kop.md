@@ -1,12 +1,12 @@
 +++
 draft = false
-tags = ["one","two"]
+tags = ["Rasberry Pi3 Låda","NES Låda"]
 topics = ["topic 1"]
 author = "author"
 type = "page"
 date = "2017-05-13T19:18:19Z"
 title = "Köp"
-keywords = ["key","words"]
+keywords = ["Köp","Rasberry Pi3 Låda", "NES Låda"]
 description = "description"
 [menu]
      [menu.language.sv]
