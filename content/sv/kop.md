@@ -9,7 +9,7 @@ title = "Köp"
 keywords = ["key","words"]
 description = "description"
 [menu]
-     [menu.main]
+     [menu.language.sv]
         name = "Köp"
         weight = 1
         identifier = "/sv/kop"
