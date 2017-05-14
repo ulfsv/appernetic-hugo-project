@@ -1,8 +1,8 @@
 +++
 date = "2017-03-25T14:34:59Z"
-tags = ["buy","Instant wi-fi"]
+tags = ["buy","Rasberry PI NES Case"]
 title = "Buy"
-keywords = ["buy","Instant wi-fi", "NFC"]
+keywords = ["buy","Rasberry Pi Case", "NES Case"]
 author = "Ulfsv"
 draft = false
 type = "page"
