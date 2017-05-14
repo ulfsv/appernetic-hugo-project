@@ -1,7 +1,7 @@
 +++
-draft = true
-type = "post"
-title = "home"
+draft = false
+type = "page"
+title = "Buy"
 topics = ["topic 1"]
 keywords = ["key","words"]
 description = "description"
