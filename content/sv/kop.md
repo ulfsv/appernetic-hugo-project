@@ -8,11 +8,7 @@ date = "2017-05-13T19:18:19Z"
 title = "Köp"
 keywords = ["Köp","Rasberry Pi3 Låda", "NES Låda"]
 description = "description"
-[menu]
-     [menu.language.sv]
-        name = "Köp"
-        weight = 1
-        identifier = "/sv/kop"
+
 +++
 <button class="btn btn-success btn-lg snipcart-add-item" data-item-id="3DQuu-Rasperry-Pi3-AIK-NES-Case" data-item-name="3DQuu-Rasperry-Pi3-AIK-NES-Case" data-item-price="45" data-item-weight="66" data-item-url="/" data-item-stackable="false"data-item-description="3DQuu 3D printed Rasperry Pi 3 AIK NES Case">
 KÖP NU!
