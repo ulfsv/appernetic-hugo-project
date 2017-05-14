@@ -1,7 +1,7 @@
 # hostname (and path) to the root eg. https://appernetic.github.io/
 baseurl = "https://3dquu.com/"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "sv"
 DefaultContentLanguageInSubdir = true
 # If you want all of the languages to be put below their respective language code,
 # enable DefaultContentLanguageInSubdir = true. Without enabling it english content
