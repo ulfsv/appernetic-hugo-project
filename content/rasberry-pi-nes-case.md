@@ -1,13 +1,13 @@
 +++
-author = "author"
-date = "2017-10-14T21:08:14Z"
-description = "description"
-draft = true
-keywords = ["key","words"]
-tags = ["one","two"]
-title = "rasberry pi nes case"
+draft = false
+type = "page"
+tags = ["buy","Rasberry PI NES Case"]
+title = "Rasberry PI NES Case"
+keywords = ["buy","Rasberry Pi Case", "NES Case"]
 topics = ["topic 1"]
-type = "post"
+description = "description"
+author = "author"
+date = "2017-05-14T14:37:59Z"
 
 +++
 A Raspberry Pi 3 NES case in black and yellow perfect for AIK soccer fans. 
