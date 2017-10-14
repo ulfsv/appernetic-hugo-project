@@ -78,7 +78,7 @@ footline = "code with <i class='fa fa-heart'></i>"
 home = "Home"
 
 mailmunchid = "" # Mailmunch site id
-sumomeid = "" # Sumome id
+sumomeid = "313d9a35b4104501a1f27845de4444a243d84df496fb5a5a51fa05f65229884e" # Sumome id
 
 # Show a sidebar menu
 showRightSidebar = false
