@@ -18,7 +18,7 @@ The link on the NFC tag can easily be changed online.
 ![example of custom NFC business card][1]
 Example of a custom NFC business card
 
-<button class="btn btn-success btn-lg snipcart-add-item" data-item-id="3DQuu-Custom-NFC-business-card" data-item-name="3DQuu-Custom-NFC-business-card" data-item-price="20" data-item-weight="0.3" data-item-url="https://3dquu.com/en/nfc-business-card" data-item-stackable="false"  data-item-custom1-name="Web link (URL)" data-item-custom1-required="true"  data-item-description="3DQuu Custom NFC business card">
+<button class="btn btn-success btn-lg snipcart-add-item" data-item-id="3DQuu-Custom-NFC-business-card" data-item-name="3DQuu-Custom-NFC-business-card" data-item-price="20" data-item-weight="1" data-item-url="https://3dquu.com/en/nfc-business-card" data-item-stackable="false"  data-item-custom1-name="Web link (URL)" data-item-custom1-required="true"  data-item-description="3DQuu Custom NFC business card">
 Buy NOW!
 </button>
 
@@ -29,7 +29,7 @@ Buy NOW!
 
  - Thickness: 125 µm
 
- - Weight: 0.17g
+ - Weight: 1g
 
  - Printed on premium professional glossy photo paper 270g/m2
 
