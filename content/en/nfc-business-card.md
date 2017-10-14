@@ -5,9 +5,9 @@ description = "description"
 draft = true
 keywords = ["NFC business card","business card", "NFC", "custom", "Android", "iPhone", "iOS 11"]
 tags = ["NFC business card","business card", "NFC", "custom", "Android", "iPhone", "iOS 11"]
-title = "nfc business card"
+title = "NFC business card"
 topics = ["topic 1"]
-type = "post"
+type = "page"
 
 +++
 ## Custom NFC business card
