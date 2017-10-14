@@ -4,7 +4,7 @@ tags = ["buy","Rasberry PI NES Case"]
 title = "Buy Online"
 keywords = ["buy","Rasberry Pi Case", "NES Case", "NFC business card"]
 author = "Ulfsv"
-draft = true
+draft = false
 type = "page"
 
 +++
