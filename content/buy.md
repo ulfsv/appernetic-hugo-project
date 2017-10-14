@@ -8,7 +8,7 @@ draft = true
 type = "page"
 
 +++
-A Raspberry Pi 3 NES case in black and yellow perfect for AIK soccer fans. 
+a Raspberry Pi 3 NES case in black and yellow perfect for AIK soccer fans. 
 
  - Is visually as close as possible to a real NES.
  - It is printed in biodegradable PLA plastic.
