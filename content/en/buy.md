@@ -10,3 +10,6 @@ author = "author"
 date = "2017-05-14T14:37:59Z"
 
 +++
+## Buy online
+NFC custom business card
+Rasberry Pi NES
