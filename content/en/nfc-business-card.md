@@ -17,3 +17,4 @@ The link on the NFC tag can easily be changed online.
 
 Specification
 Size of business card is 60 x 90 mm
+Material
