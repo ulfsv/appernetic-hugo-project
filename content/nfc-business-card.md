@@ -1,13 +1,13 @@
 +++
 author = "author"
-date = "2017-10-14T19:29:07Z"
+date = "2017-10-14T20:30:13Z"
 description = "description"
-draft = true
-keywords = ["key","words"]
-tags = ["one","two"]
-title = "nfc business card"
+draft = false
+keywords = ["NFC business card","business card", "NFC", "custom", "Android", "iPhone", "iOS 11"]
+tags = ["NFC business card","business card", "NFC", "custom", "Android", "iPhone", "iOS 11"]
+title = "NFC business card"
 topics = ["topic 1"]
-type = "post"
+type = "page"
 
 +++
 ## Custom NFC business card
