@@ -20,4 +20,4 @@ Size of business card is 60 x 90 mm (wxh)
 Material: PET, PE and EVA plastic
 Thickness: 125 µm
 Weight: 0.17g
-Printed on premium photo paper professional glossy 270g/m2
+Printed on premium professional glossy photo paper 270g/m2
