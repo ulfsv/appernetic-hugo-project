@@ -21,3 +21,4 @@ Material: PET, PE and EVA plastic
 Thickness: 125 µm
 Weight: 0.17g
 Printed on premium professional glossy photo paper 270g/m2
+NFC tag preprogramed (w
