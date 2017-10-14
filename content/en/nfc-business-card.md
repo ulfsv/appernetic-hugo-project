@@ -1,8 +1,8 @@
 +++
 author = "author"
-date = "2017-10-14T19:30:42Z"
+date = "2017-10-14T20:21:44Z"
 description = "description"
-draft = true
+draft = false
 keywords = ["NFC business card","business card", "NFC", "custom", "Android", "iPhone", "iOS 11"]
 tags = ["NFC business card","business card", "NFC", "custom", "Android", "iPhone", "iOS 11"]
 title = "NFC business card"
@@ -10,7 +10,8 @@ topics = ["topic 1"]
 type = "page"
 
 +++
-## Custom NFC business card
+
+## Custom NFC business card
 Order your custom made business card. The NFC tag can be linked to a vcard, home page, youtube, facebook page or any kind of URL. 
 Send us your design in pdf, svg or postscript or other vector graphic formats. Use high resolution images: 96 DPI or higher.  
 Send us dropbox link if image size is larger than 10 Mb.
