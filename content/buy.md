@@ -1,35 +1,18 @@
 +++
 date = "2017-03-25T14:34:59Z"
 tags = ["buy","Rasberry PI NES Case"]
-title = "Buy"
-keywords = ["buy","Rasberry Pi Case", "NES Case"]
+title = "Buy Online"
+keywords = ["buy","Rasberry Pi Case", "NES Case", "NFC business card"]
 author = "Ulfsv"
 draft = true
 type = "page"
 
 +++
-aa Raspberry Pi 3 NES case in black and yellow perfect for AIK soccer fans. 
+## Buy online
+### [NFC custom business card][1]
 
- - Is visually as close as possible to a real NES.
- - It is printed in biodegradable PLA plastic.
- - Has room for a mini fan 30x30x7mm.
- - Provides simple access to all ports.
- - Buy it for 45USD (Mastercard, VISA, Amex),
+### [Rasberry Pi NES case][2]
 
 
-Buying through 3DQuu won't mess with your zenitude. We're handling security just like you would when it comes to protecting your most precious assets with the help of [Snipcart](https://snipcart.com/security).
-
-<button class="btn btn-success btn-lg snipcart-add-item" data-item-id="3DQuu-Rasperry-Pi3-AIK-NES-Case" data-item-name="3DQuu-Rasperry-Pi3-AIK-NES-Case" data-item-price="45" data-item-weight="66" data-item-url="/" data-item-stackable="false"data-item-description="3DQuu 3D printed Rasperry Pi 3 AIK NES Case">
-Buy NOW!
-</button>
-
-![enter image description here][1]
-
-
-
-
-![enter image description here][2]
-
-
-  [1]: https://res.cloudinary.com/dtnahfj7l/v1494589182/sjl0b6k9qftogxgp09td
-  [2]: https://res.cloudinary.com/dtnahfj7l/v1494589721/yzwfur3iawfqpzypo8b3
+  [1]: https://3dquu.com/en/nfc-business-card
+  [2]: https://3dquu.com/en/rasberry-pi-nes-case
