@@ -13,7 +13,8 @@ date = "2017-05-14T14:37:59Z"
 ## Buy online
 [### NFC custom business card][1]
 
-### Rasberry Pi NES case
+[### Rasberry Pi NES case][2]
 
 
   [1]: https://3dquu.com/en/nfc-business-card
+  [2]: https://3dquu.com/en/rasberry-pi-nes-case
