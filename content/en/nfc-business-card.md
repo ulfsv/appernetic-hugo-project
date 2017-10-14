@@ -16,7 +16,7 @@ Send us your design in pdf, svg or postscript or other vector graphic formats. U
 Send us dropbox link if image size is larger than 10 Mb.
 The link on the NFC tag can easily be changed online.
 
-<button class="btn btn-success btn-lg snipcart-add-item" data-item-id="3DQuu-Custom-NFC-business-card" data-item-name="3DQuu-Custom-NFC-business-card" data-item-price="45" data-item-weight="66" data-item-url="/" data-item-stackable="false"data-item-description="3DQuu 3D printed Rasperry Pi 3 AIK NES Case">
+<button class="btn btn-success btn-lg snipcart-add-item" data-item-id="3DQuu-Custom-NFC-business-card" data-item-name="3DQuu-Custom-NFC-business-card" data-item-price="20" data-item-weight="0.3" data-item-url="/" data-item-stackable="false"data-item-description="3DQuu Custom NFC business card">
 Buy NOW!
 </button>
 
