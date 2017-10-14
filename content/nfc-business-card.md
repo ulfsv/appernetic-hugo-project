@@ -14,14 +14,14 @@ type = "page"
 Order your custom made business card. The NFC tag can be linked to a vcard, home page, youtube, facebook page or any kind of URL. 
 Send us your design in pdf, svg or postscript or other vector graphic formats. Use high resolution images: 96 DPI or higher.  
 
-if image size is larger than 10 MbSend us a wetransfer link or dropbox link .
+If image size is larger than 10 Mb use [wetransfer][1] link or dropbox link .
 
-[www.wetransfer.com][1]
+[www.wetransfer.com][2]
 
-[www.dropbox.com][2]
+[www.dropbox.com][3]
 
 The link on the NFC tag can easily be changed online.
-![example of custom NFC business card][3]
+![example of custom NFC business card][4]
 Example of a custom NFC business card
 
 <button class="btn btn-success btn-lg snipcart-add-item" data-item-id="3DQuu-Custom-NFC-business-card" data-item-name="3DQuu-Custom-NFC-business-card" data-item-price="20" data-item-weight="1" data-item-url="https://3dquu.com/en/nfc-business-card" data-item-stackable="false"  data-item-custom1-name="Web link (URL)" data-item-custom1-required="true"  data-item-description="3DQuu Custom NFC business card">
@@ -43,5 +43,6 @@ Buy NOW!
 
 
   [1]: http://www.wetransfer.com
-  [2]: http://www.dropbox.com
-  [3]: https://res.cloudinary.com/dtnahfj7l/v1508012761/wd39elymlcoizzxqlnlo
+  [2]: http://www.wetransfer.com
+  [3]: http://www.dropbox.com
+  [4]: https://res.cloudinary.com/dtnahfj7l/v1508012761/wd39elymlcoizzxqlnlo
