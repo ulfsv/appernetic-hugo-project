@@ -21,4 +21,4 @@ Material: PET, PE and EVA plastic
 Thickness: 125 µm
 Weight: 0.17g
 Printed on premium professional glossy photo paper 270g/m2
-NFC tag preprogramed (w
+NFC tag preprogramed (works with NFC enabled Android phones and latest iPhone (iOS 11.2)
