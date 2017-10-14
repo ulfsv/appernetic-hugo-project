@@ -15,7 +15,7 @@ Send us your design in pdf, svg or postscript or other vector graphic formats. U
 Send us dropbox link if image size is larger than 10 Mb.
 The link on the NFC tag can easily be changed online.
 
-Specification
+## Specification
  - Size of business card is 60 x 90 mm (wxh)
  - Material: PET, PE and EVA plastic
  - Thickness: 125 µm
