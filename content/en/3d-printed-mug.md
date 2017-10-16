@@ -18,3 +18,7 @@ Buy NOW!
 </button>
 
 ## Specification
+![enter image description here][1]
+
+
+  [1]: https://res.cloudinary.com/dtnahfj7l/v1508154437/candd6vsnbquteepttul
