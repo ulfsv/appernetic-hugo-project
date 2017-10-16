@@ -15,9 +15,7 @@ date = "2017-05-14T14:37:59Z"
 
 ### [Rasberry Pi NES case][2]
 
-
-[https://3dquu.com/en/3d-printed-mug][3]
-
+### [3D Printed mug][3]
 
   [1]: https://3dquu.com/en/nfc-business-card
   [2]: https://3dquu.com/en/rasberry-pi-nes-case
