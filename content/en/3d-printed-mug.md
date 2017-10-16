@@ -19,6 +19,10 @@ Buy online
 ![enter image description here][1]
 ## Specification
 3D printed in blue PET plastic (recyclable)
+
+Weight 167g
+
 Coated with FDA approved layer to make it food safe, dishwasher safe and water proof.
+
 
   [1]: https://res.cloudinary.com/dtnahfj7l/v1508154437/candd6vsnbquteepttul
