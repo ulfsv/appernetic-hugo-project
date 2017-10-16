@@ -14,10 +14,8 @@ type = "post"
 
 
 <button class="btn btn-success btn-lg snipcart-add-item" data-item-id="3D-Printed-Coffe-Mug" data-item-name="3D-Printed-Coffe-Mug" data-item-price="38.75" data-item-weight="167" data-item-url="/3D-printed-mug" data-item-stackable="false" data-item-description="3D-Printed-Coffe-Mug">
-Buy NOW!
+Buy 
 </button>
-
-## Specification
 ![enter image description here][1]
 
 
