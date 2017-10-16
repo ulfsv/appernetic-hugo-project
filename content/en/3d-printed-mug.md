@@ -14,9 +14,10 @@ type = "post"
 
 
 <button class="btn btn-success btn-lg snipcart-add-item" data-item-id="3D-Printed-Coffe-Mug" data-item-name="3D-Printed-Coffe-Mug" data-item-price="38.75" data-item-weight="167" data-item-url="/3D-printed-mug" data-item-stackable="false" data-item-description="3D-Printed-Coffe-Mug">
-Buy 
+Buy online
 </button>
 ![enter image description here][1]
-
-
+## Specification
+3D printed in blue PET plastic (recyclable)
+Coated with FDA 
   [1]: https://res.cloudinary.com/dtnahfj7l/v1508154437/candd6vsnbquteepttul
