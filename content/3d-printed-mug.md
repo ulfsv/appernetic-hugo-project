@@ -1,8 +1,8 @@
 +++
 author = "author"
-date = "2017-10-16T12:03:53Z"
+date = "2017-10-16T12:04:18Z"
 description = "description"
-draft = true
+draft = false
 keywords = ["key","words"]
 tags = ["one","two"]
 title = "3d printed mug"
@@ -10,7 +10,8 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-## 3D Printed coffe mug
+
+## 3D Printed coffe mug
 
 
 <button class="btn btn-success btn-lg snipcart-add-item" data-item-id="3D-Printed-Coffe-Mug" data-item-name="3D-Printed-Coffe-Mug" data-item-price="38.75" data-item-weight="167" data-item-url="/3D-printed-mug" data-item-stackable="false" data-item-description="3D-Printed-Coffe-Mug">
