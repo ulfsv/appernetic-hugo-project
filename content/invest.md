@@ -23,10 +23,11 @@ data-item-shippable="false" data-item-url="/"
 data-item-stackable="false"
 data-item-description="3DQuu iPrognos Investment 1 USD"
 >
+
+
+Invest 1USD
+</button>
 <input type="number" id="my-quantity" />
 $('#my-quantity').change(function() {
     $('#my-button').data('item-quantity', $(this).val());
 });
-
-Invest 1USD
-</button>
