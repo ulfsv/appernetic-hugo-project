@@ -18,7 +18,7 @@ Buying through 3DQuu won't mess with your zenitude. We're handling security just
 <button class="btn btn-success btn-lg snipcart-add-item" 
 data-item-id="3DQuu-IPROGNOS-20000SEK" 
 data-item-name="3DQuu-IPROGNOS-20000SEK"  
-data-item-price="1" data-item-quantity-step="2150" 
+data-item-price="2150" 
 data-item-shippable="false" data-item-url="/" 
 data-item-stackable="false"
 data-item-description="3DQuu iPrognos Investment 2150 USD">
