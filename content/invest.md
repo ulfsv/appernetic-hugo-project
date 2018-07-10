@@ -22,11 +22,5 @@ data-item-price="1" data-item-quantity-step="1"
 data-item-shippable="false" data-item-url="/" 
 data-item-stackable="false"
 data-item-description="3DQuu iPrognos Investment 1 USD">
-
-
-Invest 1USD
+2150 USD
 </button>
-<input type="number" id="my-quantity" />
-$('#my-quantity').change(function() {
-    $('#my-button').data('item-quantity', $(this).val());
-});
