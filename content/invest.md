@@ -8,6 +8,13 @@ topics: ["topic 1"]
 tags: ["one", "two"]
 ---
 
-# Headline
 
-Text
+Invest in 3DQuu iPrognos service
+ 
+ - Buy it for 1 SEK (Mastercard, VISA, Amex, PayPal),
+
+Buying through 3DQuu won't mess with your zenitude. We're handling security just like you would when it comes to protecting your most precious assets with the help of [Snipcart](https://snipcart.com/security).
+
+<button class="btn btn-success btn-lg snipcart-add-item" data-item-id="3DQuu-IPROGNOS-1SEK" data-item-name="3DQuu-IPROGNOS-1SEK" data-item-price="1" data-item-weight="0" data-item-url="/" data-item-stackable="false"data-item-description="3DQuu iPrognos Investment 1 SEK">
+Invest 1SEK
+</button>
