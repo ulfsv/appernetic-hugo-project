@@ -1,6 +1,6 @@
 ---
 type: "post"
-draft: true
+draft: false
 author: "author"
 description: "description"
 keywords: ["key", "words"]
