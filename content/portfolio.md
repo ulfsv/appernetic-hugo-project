@@ -9,6 +9,7 @@ type = "page"
 
 +++
 # Headline
+<http://example.com/>
 
 Text
 {{% <iframe
