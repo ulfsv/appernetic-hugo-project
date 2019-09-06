@@ -8,8 +8,4 @@ draft = false
 type = "page"
 
 +++
-# Headline
-
-Text2
-
-<script>(function () { var script = document.createElement('script'); script.src = 'https://app.activechat.ai/script/4394d2d5-d486-4d98-b689-061f4396cc93'; script.id = 'ACCW_EMBED'; document.getElementsByTagName('head')[0].appendChild(script); })();</script>
+# Headline1
