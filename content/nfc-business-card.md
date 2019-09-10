@@ -10,7 +10,7 @@ topics = ["topic 1"]
 type = "page"
 
 +++
-## Custom NFC business card
+## Custom NFC business card.
 Order your custom made business card. The NFC tag can be linked to a vcard, home page, youtube, facebook page or any kind of URL. 
 Send us your design in pdf, svg or postscript or other vector graphic formats. Use high resolution images: 96 DPI or higher.  
 
